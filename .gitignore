@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+_NCrunch_FizzBuzz
+FizzBuzz.crunchsolution.cache
+FizzBuzz.executiontimes.cache
